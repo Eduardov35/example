@@ -44,4 +44,4 @@ async def numazar(ctx, arg1, arg2):
     await ctx.send(random.randint(int(arg1), int(arg2)))
     
 
-bot.run("MTE1NTIwMDA0NjQ4MTAyMzAwMQ.G9_3uR.qD4t0nTlcn4QjzrgJUkmEL1DW08odb6GY1Ie_0")
+bot.run("TOKEN")
